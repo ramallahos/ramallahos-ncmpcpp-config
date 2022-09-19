@@ -1,0 +1,1 @@
+# ramallahos-ncmpcpp-config
